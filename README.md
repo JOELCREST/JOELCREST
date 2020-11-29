@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### Vous pouvez me retrouver également ici :
 
-- [Twitter](http://twitter.com/joelcrest)
-- [LinkedIn](http://linkedin.com/in/joelcrest)
-- [YouTube](http://youtube.com/c/joelcrest) 
-- [Mon blog](http://joelcrest.com)  
-- [Instagram](http://instagram.com/joelcrest) 
+- [Twitter](http://twitter.com/joelcrest) 🐤
+- [LinkedIn](http://linkedin.com/in/joelcrest) 👔
+- [YouTube](http://youtube.com/c/joelcrest) 📢
+- [Mon blog](http://joelcrest.com) 💻
+- [Instagram](http://instagram.com/joelcrest) 📸
