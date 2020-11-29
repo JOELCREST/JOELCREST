@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/JOELCREST/JOELCREST/blob/main/BanniereGitHub.jpg?raw=true">
-
 ### Vous pouvez me retrouver ici :
 
 - 🐤 [Twitter](http://twitter.com/joelcrest)
