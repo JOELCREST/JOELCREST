@@ -2,7 +2,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
@@ -11,8 +11,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/joelcrest
+[2]: https://www.linkedin.com/in/joelcrest/
 
 <!--
 **JOELCREST/JOELCREST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
