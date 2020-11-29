@@ -1,4 +1,8 @@
-### Bonjour à toutes et à tous.
+### Bonjour et bienvenue.
+
+Je suis architecte Data & IA à Marseille. 
+Expert des technologies Microsoft (Azure, Power Platform), je suis organisateur du [Club Power BI](http://clubpowerbi.com/) sur la région Aix-Marseille.
+J'ai suis également [MVP Data Platform Microsoft](https://mvp.microsoft.com/fr-fr/PublicProfile/5003200?fullName=Joel%20CREST) depuis 2018. 
 
 <!-- Actual text -->
 
@@ -31,7 +35,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/JOELCREST/JOELCREST/blob/main/BanniereGitHub.jpg?raw=true">
 
-### Vous pouvez me retrouver également ici :
+### Vous pouvez me retrouver ici :
 
 - 🐤 [Twitter](http://twitter.com/joelcrest)
 - 👔 [LinkedIn](http://linkedin.com/in/joelcrest)
