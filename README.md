@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/JOELCREST/JOELCREST/blob/master/BanniereGitHub.jpg?raw=true">
+<img src="https://github.com/JOELCREST/JOELCREST/blob/main/BanniereGitHub.jpg?raw=true">
 
 ### Vous pouvez me retrouver également ici :
 
