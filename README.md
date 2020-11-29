@@ -22,6 +22,12 @@ Je suis architecte Data & IA à Marseille.
 Expert des technologies Microsoft (Azure, Power Platform), je suis organisateur du [Club Power BI](http://clubpowerbi.com/) sur la région Aix-Marseille.  
 J'ai suis également [MVP Data Platform Microsoft](https://mvp.microsoft.com/fr-fr/PublicProfile/5003200?fullName=Joel%20CREST) depuis 2018. 
 
+### Retrouvez en vidéo mes dernières présentations :
+- [Club Power BI](https://www.youtube.com/watch?v=HFutYv1hz_0)
+- [Power Platform French Summit](https://www.youtube.com/watch?v=RFbcezZu0k0)
+- [Power 365](https://www.youtube.com/watch?v=4c4t9aYmCOo)
+- [Power Saturday](https://www.youtube.com/watch?v=PmBpMcXt6dM)
+
 ### Vous pouvez me retrouver ici :
 
 - 🐤 [Twitter](http://twitter.com/joelcrest)
