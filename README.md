@@ -1,4 +1,4 @@
-### Bienvenue 
+### Bonjour à toutes et à tous. 
 
 <!--
 **JOELCREST/JOELCREST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Vous pouvez me retrouver également ici :
+
+- [Twitter](http://twitter.com/joelcrest)
+- [LinkedIn](http://linkedin.com/in/joelcrest)
+- [YouTube](http://youtube.com/c/joelcrest) 
+- [Mon blog](http://joelcrest.com)  
+- [Instagram](http://instagram.com/joelcrest) 
