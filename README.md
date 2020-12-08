@@ -28,6 +28,9 @@ J'ai suis également [MVP Data Platform Microsoft](https://mvp.microsoft.com/fr-
 - [Power 365](https://www.youtube.com/watch?v=4c4t9aYmCOo)
 - [Power Saturday](https://www.youtube.com/watch?v=PmBpMcXt6dM)
 
+### Retrouvez mes derniers articles :
+- [Les Echos](https://www.lesechos.fr/idees-debats/cercle/opinion-vers-une-business-intelligence-agile-un-outil-de-competitivite-pour-les-entreprises-144060)
+
 ### Vous pouvez me retrouver ici :
 
 - 🐤 [Twitter](http://twitter.com/joelcrest)
