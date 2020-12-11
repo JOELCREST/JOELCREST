@@ -31,6 +31,7 @@ J'ai suis également [MVP Data Platform Microsoft](https://mvp.microsoft.com/fr-
 - Modern Workplace Conference Paris (coming soon)
 
 ### Retrouvez mes derniers articles :
+- [Solutions Numériques](https://www.solutions-numeriques.com/articles/avis-dexpert-lautomatisation-de-processus-est-au-coeur-des-plateformes/)
 - [Les Echos](https://www.lesechos.fr/idees-debats/cercle/opinion-vers-une-business-intelligence-agile-un-outil-de-competitivite-pour-les-entreprises-144060)
 
 ### Vous pouvez me retrouver ici :
