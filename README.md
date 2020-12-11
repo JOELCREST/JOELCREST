@@ -23,6 +23,7 @@ Expert des technologies Microsoft (Azure, Power Platform), je suis organisateur 
 J'ai suis également [MVP Data Platform Microsoft](https://mvp.microsoft.com/fr-fr/PublicProfile/5003200?fullName=Joel%20CREST) depuis 2018. 
 
 ### Retrouvez en vidéo mes dernières présentations :
+- [Azure DevOps Aix-en-Proence](https://www.youtube.com/watch?v=qr-0WsMyQgs)
 - [Club Power BI](https://www.youtube.com/watch?v=HFutYv1hz_0)
 - [Power Platform French Summit](https://www.youtube.com/watch?v=RFbcezZu0k0)
 - [Power 365](https://www.youtube.com/watch?v=4c4t9aYmCOo)
