@@ -28,7 +28,7 @@ J'ai suis également [MVP Data Platform Microsoft](https://mvp.microsoft.com/fr-
 - [Power Platform French Summit](https://www.youtube.com/watch?v=RFbcezZu0k0)
 - [Power 365](https://www.youtube.com/watch?v=4c4t9aYmCOo)
 - [Power Saturday](https://www.youtube.com/watch?v=PmBpMcXt6dM)
-- Modern Workplace Conference Paris (comming soon)
+- Modern Workplace Conference Paris (coming soon)
 
 ### Retrouvez mes derniers articles :
 - [Les Echos](https://www.lesechos.fr/idees-debats/cercle/opinion-vers-une-business-intelligence-agile-un-outil-de-competitivite-pour-les-entreprises-144060)
