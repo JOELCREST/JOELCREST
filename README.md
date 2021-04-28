@@ -36,7 +36,6 @@ J'ai suis également [MVP Data Platform Microsoft](https://mvp.microsoft.com/fr-
 
 ### Vous pouvez me retrouver ici :
 
-- 🐤 [Twitter](http://twitter.com/joelcrest)
 - 👔 [LinkedIn](http://linkedin.com/in/joelcrest)
 - 📢 [YouTube](http://youtube.com/c/joelcrest)
 - 💻 [Mon blog](http://joelcrest.com)
